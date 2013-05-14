@@ -2,7 +2,7 @@ CROSS_HOST="x86_64-pc-cygwin"
 inherit cross
 
 NAME="cygwin64-freetype2"
-VERSION=2.4.11
+VERSION=2.4.12
 RELEASE=1
 CATEGORY="Devel"
 SUMMARY="FreeType for Cygwin 64bit toolchain"
